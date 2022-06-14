@@ -3,7 +3,7 @@ package com.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("AA");
+        System.out.println("AAA");
         System.out.println("이미 완성해버림");
     }
 }
